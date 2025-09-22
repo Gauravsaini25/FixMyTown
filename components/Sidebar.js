@@ -15,7 +15,8 @@ export default function Sidebar() {
   return (
     <aside className="w-64 bg-gradient-to-b from-blue-50 via-white to-blue-100 border-r border-blue-100 shadow-md flex flex-col">
       {/* Brand / Logo */}
-      <div className="px-6 py-5 font-extrabold text-xl tracking-tight text-slate-800 border-b border-blue-100">
+      <div className="px-6 py-5 font-extrabold text-xl tracking-tight text-slate-800 border-b border-blue-100 flex items-center gap-2">
+        <img src="/fmtlogo.png" className="w-[30px]" alt="" srcset="" />
         FixMyTown
       </div>
 
@@ -42,3 +43,4 @@ export default function Sidebar() {
     </aside>
   );
 }
+
