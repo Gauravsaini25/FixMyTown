@@ -29,7 +29,7 @@ It enables **citizens** to easily report issues via a **mobile app**, while **ad
 ## 🏗️ System Workflow  
 
 ![System Workflow](./assets/fixmytown-flow.png)  
-*(Add your architecture diagram here — the one you uploaded!)*  
+
 
 ---
 
